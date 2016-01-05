@@ -1,0 +1,16 @@
+/* React Starter Kit | MIT License | http://www.reactstarterkit.com/ */
+
+@import '../variables.css';
+
+.HexaMap-container {
+  /*margin: 0 auto;*/
+  /*padding: 0 0 40px;*/
+  svg.hexamap{
+    path.country{
+      fill:none;
+      stroke:var(--gray-dark);
+    }
+    path.count{
+    }
+  }
+}

@@ -1,0 +1,21 @@
+/* React Starter Kit | MIT License | http://www.reactstarterkit.com/ */
+
+@import '../variables.css';
+
+div.country-count-per-year{
+  rect{
+    fill-opacity:0.2;
+  }
+  text.country-count-label{
+    text-anchor: middle;
+    font-size: 90%;
+  }
+  path.domain{
+    fill:none;
+    stroke:black;
+  }
+  text.country-count-label{
+    font-size:80%;
+  }
+}
+
