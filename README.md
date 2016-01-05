@@ -8,6 +8,9 @@ Head to http://blog.octo.com/QQQ for a lengthy discussion on the matter or dive 
 
 To build the full application as a single one, simply install `docker` and bunild/run it!
 
-##Iicense
+##License
 
 ###Third parties contributions
+
+##Author
+alexandre.masselot@gmail.com

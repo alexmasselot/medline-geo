@@ -1,6 +1,0 @@
-{
-  "name": "CountryCountPerYear",
-  "version": "0.0.0",
-  "private": true,
-  "main": "./CountryCountPerYear.js"
-}
